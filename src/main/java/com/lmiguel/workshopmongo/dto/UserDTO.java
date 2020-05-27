@@ -2,7 +2,7 @@ package com.lmiguel.workshopmongo.dto;
 
 import java.io.Serializable;
 
-import com.lmiguel.workshopmongo.domain.entities.User;
+import com.lmiguel.workshopmongo.domain.User;
 
 public class UserDTO implements Serializable {
 

@@ -1,4 +1,4 @@
-package com.lmiguel.workshopmongo.domain.entities;
+package com.lmiguel.workshopmongo.domain;
 
 import java.io.Serializable;
 

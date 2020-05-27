@@ -68,7 +68,7 @@ public class Post implements Serializable {
 		this.body = body;
 	}
 	
-	public AuthorDTO getAuthordto() {
+	public AuthorDTO getAuthor() {
 		return author;
 	}
 
